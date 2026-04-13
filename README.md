@@ -8,7 +8,7 @@ PROG5121
 ...
 
 # Progect infromation
-three classes login , main, login test.Java
+*three classes login * main *login test.Java
 
 ...
 # username validation 
