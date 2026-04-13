@@ -9,11 +9,11 @@ PROG5121
 
 # Progect infromation
 three classes
-login 
-main
+login, 
+main,
 loginTest.Java
 
 ...
 # username validation 
-password validation
+password validation,
 cellphone validaation
